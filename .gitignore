@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# JetBrains Rider / IntelliJ settings
+.idea/
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
